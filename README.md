@@ -18,6 +18,8 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://t.me/jberestian"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
+
 </p>
 
 
