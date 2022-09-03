@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript and React.js** 
 - 🔥 I’m enthusiastic and optimistic 
-- 👨‍💻 All of my projects are available here 
+- 👨‍💻 All of my projects are available here: <a href="https://github.com/Jberestian?tab=repositories"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
+
 - 📫 How to reach me **jberestian@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
@@ -12,7 +13,7 @@
   <a href="https://t.me/jberestian"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My stack:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
