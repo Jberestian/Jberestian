@@ -1,9 +1,9 @@
 <h2>Hi 👋, I'm Yevhen Berestian</h2>
-<h4>I’m interested in getting a Frontend Developer job</h4>
+<h4>I’m a Frontend Developer</h4>
 
 - 🌱 I’m currently learning **JavaScript and React.js** 
 - 🔥 I’m enthusiastic and optimistic 
-- 🔥 English level: intermediate
+- 🔥 English level: upper intermediate
 - 👨‍💻 All of my projects are available here: <a href="https://github.com/Jberestian?tab=repositories"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
 
 - 📫 How to reach me **jberestian@gmail.com**
