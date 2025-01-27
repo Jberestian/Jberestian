@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Yevhen Berestian</h2>
 <h4>I’m a Frontend Developer</h4>
 
-- 🌱 I’m currently learning **JavaScript and React.js** 
+- 🔥 Stack: JavaScript, React.js, NodeJs, Typescript
 - 🔥 I’m enthusiastic and optimistic 
 - 🔥 English level: upper intermediate
 - 👨‍💻 All of my projects are available here: <a href="https://github.com/Jberestian?tab=repositories"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
